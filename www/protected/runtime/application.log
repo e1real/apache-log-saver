@@ -52,3 +52,83 @@ REQUEST_URI=/
 in /var/www/html/protected/views/layouts/main.php (51)
 in /var/www/html/protected/views/layouts/column1.php (6)
 in /var/www/html/protected/controllers/SiteController.php (32)
+2022/05/12 06:54:32 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/html/yii/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/html/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=//index.php?r=gii
+---
+2022/05/12 06:54:35 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/html/yii/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/html/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=gii
+---
+2022/05/12 06:54:37 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/html/yii/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/html/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=gii
+---
+2022/05/12 06:54:38 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/html/yii/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/html/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=gii
+---
+2022/05/12 06:55:06 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/html/yii/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/html/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=gii
+---
+2022/05/12 06:55:45 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/html/yii/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/html/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=gii
+---
+2022/05/12 06:55:47 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/html/yii/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/html/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=gii
+---
+2022/05/12 06:55:48 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/html/yii/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /var/www/html/yii/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /var/www/html/yii/framework/web/CWebApplication.php(282): CController->run('')
+#2 /var/www/html/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /var/www/html/yii/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /var/www/html/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=gii
+---
